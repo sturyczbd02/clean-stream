@@ -8,5 +8,9 @@
 .banner {
   width: 100%;
   text-align: center;
-  background: blue;
+}
+
+.top-banner{
+  width: 1485px;
+  max-height: 300px;
 }
