@@ -6,6 +6,9 @@
 }
 
 .top-banner, img{
-  width: 1485px;
-  max-height: 1000px;
+  width: 1200px;
+  max-height: 400px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
