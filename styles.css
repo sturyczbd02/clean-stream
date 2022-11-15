@@ -5,12 +5,9 @@
   font-weight: 800;
 }
 
-.banner {
-  width: 100%;
-  text-align: center;
-}
 
-.top-banner{
+
+.top-banner, img{
   width: 1485px;
-  max-height: 300px;
+  max-height: 1000px;
 }
