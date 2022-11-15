@@ -1,4 +1,11 @@
 /* Styles */
+
+/*Page Background*/
+body  {
+  background-image: url("background-image.jpg");
+  background-color: #000000;
+}
+
 .banner h1 {
   font-size: 1.6em;
   padding: 10px 0;
