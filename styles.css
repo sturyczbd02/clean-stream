@@ -28,6 +28,7 @@ body  {
 .nav-bar a{
   color:black;
   font-family: 'Limelight', regular;
+  font-size: 20px;
 }
 
 ul {
@@ -47,7 +48,7 @@ li a {
   display: block;
   color: #d6e2d8;
   text-align: center;
-  padding: 14px 16px;
+  padding: 10px 12px;
   text-decoration: none;
 }
 
