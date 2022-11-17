@@ -6,7 +6,14 @@
 /*Page Background*/
 #index, body  {
   background-image: url("images/background-image.jpg");
-  background-color: #000000;
+  
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 #netflix, body  {
