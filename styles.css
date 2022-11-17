@@ -9,6 +9,11 @@
   background-color: #000000;
 }
 
+#netflix, body  {
+  background-image: url("netflixBackground.jpg");
+  background-color: #000000;
+}
+
 /* Top Banner */
 .banner h1 {
   font-size: 1.6em;
