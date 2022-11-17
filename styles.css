@@ -11,7 +11,8 @@
 
 #netflix, body  {
   background-image: url("images/netflixBackground.jpg");
-  background-color: #000000;
+  height: 100%;
+  background-size: cover;
 }
 
 /* Top Banner */
