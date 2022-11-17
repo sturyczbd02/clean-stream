@@ -56,16 +56,3 @@ li a {
 li a:hover {
   background-color: #57706f;
 }
-
-/* Panel Images */
-.panel{
-  display: block;
-  float: center;
-  padding: 10px;
-  width: 1000px;
-  height: 700px;
-}
-.panel-image{
-  width: 250px;
-  height: 600px;
-}
