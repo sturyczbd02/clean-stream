@@ -43,7 +43,7 @@
 
 /* NAV */
 .nav-bar a{
-  color:black;
+  color:white;
   font-family: 'Limelight', regular;
   font-size: 20px;
 }
@@ -53,7 +53,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #acc1c6;
+  background-color: #201f1d;
   z-index: 100;
 }
 
