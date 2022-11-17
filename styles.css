@@ -56,7 +56,6 @@ li a {
 li a:hover {
   background-color: #57706f;
 }
-
 .column {
-margin: auto;
+  margin: auto;
 }
