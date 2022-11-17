@@ -4,7 +4,7 @@
 @import url(https://fonts.googleapis.com/css?family=Limelight);
 
 /*Page Background*/
-body  {
+#index, body  {
   background-image: url("background-image.jpg");
   background-color: #000000;
 }
