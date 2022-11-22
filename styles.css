@@ -16,36 +16,6 @@
   background-size: cover;
 }
 
-#netflix, body  {
-  background-image: url("images/netflixBackground.jpg");
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-#paramount, body  {
-  background-image: url("images/paramountbacking.jpg");
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
-#disney, body  {
-  background-image: url("images/disneybacking.jpg");
-  height: 100%;
-
-  /* Center and scale the image nicely */
-  background-position: center;
-  background-repeat: no-repeat;
-  background-size: cover;
-}
-
 /* Top Banner */
 .banner h1 {
   font-size: 1.6em;
@@ -92,4 +62,37 @@ li a {
 /* Change the link color on hover */
 li a:hover {
   background-color: #57706f;
+}
+
+/* Netflix */
+#netflix, body  {
+  background-image: url("images/netflixBackground.jpg");
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Paramount */
+#paramount, body  {
+  background-image: url("images/paramountbacking.jpg");
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+/* Disney */
+#disney, body  {
+  background-image: url("images/disneybacking.jpg");
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
 }
