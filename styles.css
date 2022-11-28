@@ -64,6 +64,22 @@ li a:hover {
   background-color: #57706f;
 }
 
+/* About Page Header */
+
+#about, h1 {
+  text-align: center;
+}
+
+/* About Page left align */
+#lft, h3 {
+  text-align: left;
+}
+
+/* About Page right align */
+#rgt, h3 {
+  text-align: right;
+}
+
 /* Netflix */
 #netflix, body  {
   background-image: url("images/netflixBackground.jpg");
