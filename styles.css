@@ -129,6 +129,7 @@ li a:hover {
   padding: 10px 12px;
 }
 
-iframe {
-  margin: auto;
+.banner-video, iframe{
+  margin-left: 350px;
+  margin-right: auto;
 }
