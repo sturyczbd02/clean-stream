@@ -64,6 +64,8 @@ li a:hover {
   background-color: #57706f;
 }
 
+/* Home Page Tab Links */
+
 /* Netflix */
 #netflix, body  {
   background-image: url("images/netflixBackground.jpg");
