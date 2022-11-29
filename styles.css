@@ -128,3 +128,7 @@ li a:hover {
 .leftimg {
   padding: 10px 12px;
 }
+
+iframe {
+  margin: auto;
+}
