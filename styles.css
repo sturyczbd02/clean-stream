@@ -64,7 +64,21 @@ li a:hover {
   background-color: #57706f;
 }
 
-/* Home Page Tab Links */
+/* About Page Header */
+
+#about, h1 {
+  text-align: center;
+}
+
+/* About Page left align */
+#lft, h3 {
+  text-align: left;
+}
+
+/* About Page right align */
+#rgt, h3 {
+  text-align: right;
+}
 
 /* Netflix */
 #netflix, body  {
