@@ -3,6 +3,7 @@
 /* Imported Fonts */
 @import url(https://fonts.googleapis.com/css?family=Limelight);
 @import url(https://fonts.cdnfonts.com/css/warriot);
+@import url(https://fonts.cdnfonts.com/css/i-shot-the-serif-2);
 
 /*Page Background*/
 #index, body  {
@@ -122,6 +123,7 @@ li a:hover {
 
 .wraps {
   color: white;
+  font-family: 'I shot the Serif', sans-serif;
 }
 
 .leftimg {
