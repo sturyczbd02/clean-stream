@@ -67,17 +67,17 @@ li a:hover {
 
 /* About Page Header */
 
-#about, h1 {
+#about > h1 {
   text-align: center;
 }
 
 /* About Page left align */
-#lft, h3 {
+#lft > h3 {
   text-align: left;
 }
 
 /* About Page right align */
-#rgt, h3 {
+#rgt > h3 {
   text-align: right;
 }
 
@@ -114,12 +114,10 @@ li a:hover {
   background-size: cover;
 }
 
-.container{
-  height: 700px;
-}
-
-.row{
-  height: 700px;
+/* Review */
+.banner-video > iframe{
+  margin-left: 350px;
+  margin-right: auto;
 }
 
 .wraps {
@@ -137,6 +135,11 @@ li a:hover {
   margin-left: auto; 
   margin-right: auto; 
   display: block; 
+}
+
+#verdict, h1{
+  color: white;
+  text-align: center;
   font-size: 50px;
   font-family: 'warriot', sans-serif;
 }
