@@ -126,20 +126,25 @@ li a:hover {
 
 .leftimg {
   padding: 10px 12px;
+  max-height: 600px;
+  max-width: 100%;
 }
 
 
 #verdict{
   width: 100rem; 
   background-color: maroon; 
-  margin-left: auto; 
-  margin-right: auto; 
-  display: block; 
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
-#verdict, h1{
+#verdict > h1{
   color: white;
   text-align: center;
   font-size: 50px;
   font-family: 'warriot', sans-serif;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
