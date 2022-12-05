@@ -121,10 +121,19 @@ li a:hover {
   margin-right: auto;
 }
 
+/* Review body text */
 .wraps {
   color: white;
   font-family: 'I shot the Serif', sans-serif;
   font-size: 25px;
+}
+
+/* Artwork descriptive text */
+.artworktext {
+  color: white;
+  font-family: 'I shot the Serif', sans-serif;
+  font-size: 20px;
+  text-align: center;
 }
 
 .reviewimg {
