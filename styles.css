@@ -168,3 +168,5 @@ li a:hover {
   margin-right: 150px;
   padding: 50px;
 }
+
+.hovernetflix:hover .container { opacity: 100%}
