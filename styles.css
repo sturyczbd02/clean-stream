@@ -161,7 +161,7 @@ li a:hover {
   display: block;
 }
 
-.article-column {
+#article-column {
   background-color: #201f1d;
   margin-top: 30px;
   margin-left: 150px;
