@@ -169,4 +169,23 @@ li a:hover {
   padding: 50px;
 }
 
+#about-us-row-left{
+  background-color: #201f1d;
+  color: white;
+  font-family: 'I shot the Serif', sans-serif;
+  margin-left: 0;
+}
+
+#about-us-row-right{
+  background-color: #201f1d;
+  color: white;
+  font-family: 'I shot the Serif', sans-serif;
+  margin-right: 0;
+}
+
+#about{
+  color: black;
+  text-align: center;
+}
+
 .hovernetflix:hover .container { opacity: 100%}
