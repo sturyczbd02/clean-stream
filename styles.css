@@ -173,14 +173,14 @@ li a:hover {
   background-color: #201f1d;
   color: white;
   font-family: 'I shot the Serif', sans-serif;
-  margin-left: 0;
+  margin-left: 10px;
 }
 
 #about-us-row-right{
   background-color: #201f1d;
   color: white;
   font-family: 'I shot the Serif', sans-serif;
-  margin-right: 0;
+  margin-right: 10px;
 }
 
 #about{
