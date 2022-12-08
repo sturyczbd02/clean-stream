@@ -185,11 +185,11 @@ li a:hover {
   text-align: center;
 }
 
-.article-header > h1{
-  font-size: 40px;
+h1.article-header{
+  font-size: 50px;
 }
 
-.article-header > h2{
+h2.article-header{
   font-size: 35px;
 }
 
