@@ -37,7 +37,7 @@
 .nav-bar a{
   color:white;
   font-family: 'Limelight', regular;
-  font-size: 20px;
+  font-size: 22px;
 }
 
 ul {
@@ -142,23 +142,40 @@ li a:hover {
   max-width: 100%;
 }
 
+#verdictdisney{
+  width: 100rem; 
+  background-color: rgb(3, 3, 70); 
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'warriot', sans-serif;
+}
 
-#verdict{
+#verdictparamount{
+  width: 100rem; 
+  background-color: rgb(69, 117, 248); 
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  color: white;
+  text-align: center;
+  font-size: 50px;
+  font-family: 'warriot', sans-serif;
+}
+
+#verdictnetflix{
   width: 100rem; 
   background-color: maroon; 
   margin-left: auto;
   margin-right: auto;
   display: block;
-}
-
-#verdict > h1{
   color: white;
   text-align: center;
   font-size: 50px;
   font-family: 'warriot', sans-serif;
-  margin-left: auto;
-  margin-right: auto;
-  display: block;
 }
 
 #article-column {
