@@ -219,6 +219,12 @@ h2.article-header{
 #about{
   color: black;
   text-align: center;
+  font-family: 'I shot the Serif', sans-serif;
+}
+.card-title{
+color:black;
+font-family: 'Limelight', regular;
+font-size: 25px;
+text-align: center;
 }
 
-.hovernetflix:hover .container { opacity: 100%}
