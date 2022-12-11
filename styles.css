@@ -207,6 +207,8 @@ h2.article-header{
   color: white;
   font-family: 'I shot the Serif', sans-serif;
   margin-left: 30px;
+  margin-top: 30px;
+  padding-bottom: 5px;
 }
 
 #about-us-row-right{
@@ -214,12 +216,15 @@ h2.article-header{
   color: white;
   font-family: 'I shot the Serif', sans-serif;
   margin-right: 30px;
+  margin-top: 30px;
+  padding-bottom: 5px;
 }
 
 #about{
   color: black;
   text-align: center;
   font-family: 'I shot the Serif', sans-serif;
+  
 }
 .card-title{
 color:black;
